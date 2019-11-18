@@ -13,4 +13,8 @@ Climate App :           Designed a Flask API and created all routes that are ava
 
 Temperature Analysis :  Plotted Bar chart for the min, avg, and max temperature by using  the calc_temps function to calculate the min,                             avg,and max temperatures for  trip using the matching dates from the previous year.
 
+
+![tripavg](https://user-images.githubusercontent.com/50187921/69101002-0f4c9900-0a24-11ea-854a-3c6f2b2896b4.png)
+
+
 Daily Rainfall Average : Plotted an area plot  for the daily normals by using 'daily_normals' function which calculate the daily normals                             for a specific date
