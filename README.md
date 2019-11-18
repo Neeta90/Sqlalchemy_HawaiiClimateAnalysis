@@ -1,7 +1,7 @@
 # Hawaii climate analysis
 In this assignment, I did climate analysis on Honolulu, Hawaii!. I used Python and SQLAlchemy to do basic climate analysis and data exploration.
 
-Precipitation Analysis : By using a query to retrieve the last 12 months of precipitation data.and plot the result with 'date' and                                    'prcp'.
+**Precipitation Analysis** : By using a query to retrieve the last 12 months of precipitation data.and plot the result with 'date' and                                    'prcp'.
 
 ![Precipitation Analysis](https://user-images.githubusercontent.com/50187921/69100592-18893600-0a23-11ea-9dcd-03e424470bf0.png)
 
