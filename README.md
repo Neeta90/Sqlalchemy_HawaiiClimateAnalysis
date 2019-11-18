@@ -5,7 +5,9 @@ Precipitation Analysis : By using a query to retrieve the last 12 months of prec
 
 ![Precipitation Analysis](https://user-images.githubusercontent.com/50187921/69100592-18893600-0a23-11ea-9dcd-03e424470bf0.png)
 
-Station Analysis :     calculated number of stations and find out most active station and Plotted the histogram for last 12 months of                              temperature observation data (tobs)..
+Station Analysis :     calculated number of stations and find out most active station and Plotted the histogram for last 12 months of                              temperature observation data (tobs).
+
+![tob](https://user-images.githubusercontent.com/50187921/69100845-b7159700-0a23-11ea-869e-12c88bcf670f.png)
 
 Climate App :           Designed a Flask API and created all routes that are available based on the developed queries
 
