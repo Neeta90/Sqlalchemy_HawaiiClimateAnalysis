@@ -18,3 +18,6 @@ In this assignment, I did climate analysis on Honolulu, Hawaii!. I used Python a
 
 
 **Daily Rainfall Average :** Plotted an area plot  for the daily normals by using 'daily_normals' function which calculate the daily normals                             for a specific date
+
+![temppreyear](https://user-images.githubusercontent.com/50187921/69101454-466f7a00-0a25-11ea-88bb-f03ffe3b53a0.png)
+
