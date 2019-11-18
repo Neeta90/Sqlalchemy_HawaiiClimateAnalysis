@@ -1,7 +1,7 @@
 # sqlalchemy_homework
 In this assignment, I did climate analysis on Honolulu, Hawaii!. I used Python and SQLAlchemy to do basic climate analysis and data exploration.
 
-Precipitation Analysis : By using a query to retrieve the last 12 months of precipitation data.and plot he result with 'date' and                                    'prcp'.
+Precipitation Analysis : By using a query to retrieve the last 12 months of precipitation data.and plot the result with 'date' and                                    'prcp'.
 
 Station Analysis :     calculated number of stations and find out most active station and Plotted the histogram for last 12 months of                              temperature observation data (tobs)..
 
