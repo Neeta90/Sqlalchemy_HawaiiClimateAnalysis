@@ -12,7 +12,7 @@ In this assignment, I did climate analysis on Honolulu, Hawaii!. I used Python a
 **Climate App :**          Designed a Flask API and created all routes that are available based on the developed queries.
 
 
- */api/v1.0/precipitation*
+ `/api/v1.0/precipitation`
 Query for the dates and temperature observations from the last year.
 
 /api/v1.0/stations
