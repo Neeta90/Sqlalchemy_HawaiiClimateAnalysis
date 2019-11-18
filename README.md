@@ -9,7 +9,7 @@ In this assignment, I did climate analysis on Honolulu, Hawaii!. I used Python a
 
 ![tob](https://user-images.githubusercontent.com/50187921/69100845-b7159700-0a23-11ea-869e-12c88bcf670f.png)
 
-**Climate App : **          Designed a Flask API and created all routes that are available based on the developed queries
+**Climate App :**          Designed a Flask API and created all routes that are available based on the developed queries
 
 **Temperature Analysis :**  Plotted Bar chart for the min, avg, and max temperature by using  the calc_temps function to calculate the min,                             avg,and max temperatures for  trip using the matching dates from the previous year.
 
